@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dda3f95a32117d81bc2a599b08c3e716d2c60ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195df380d48114e8a1e8afb07d49935a95cf3283")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
